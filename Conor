@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+<main id="main">
+  <h1 id="title">
+    Conor McGregor
+    </h1>
+    <p id="tribute-info">
+        The Double Champ
+        </p>
+
+    <div id="img-div">
+      <img id="image" src="https://i.guim.co.uk/img/media/e0b44c6b4e85fd5d7a508690c53ee07b70770267/0_104_2742_1644/master/2742.jpg?width=620&quality=85&dpr=1&s=none">
+            </img>
+                  <div id="img-caption">
+      Conor McGregor with two UFC Championship belts
+</div>
+      </div>
+      <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Conor_McGregor">Read more on Wikipedia
+        </a>
+      
+</main>
+ </body>
+</html>
